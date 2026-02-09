@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardlujunfeng
-- 👀 I’m interested in database privacy-preservering.
+- 👀 I’m interested in database and privacy-preserving.
 - 🌱 I’m currently learning computer software and theory.
-- 💞️ I’m looking to collaborate on verified query.
+- 💞️ I’m looking to collaborate on verified query and ANNS for vector database.
 - 📫 How to reach me 1074289549@qq.com
 
 <!---
